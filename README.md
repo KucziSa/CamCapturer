@@ -1,4 +1,4 @@
-<h1 text align = "center">🎵 CamHacker 🎵</h1> 
+<h1 text align = "center">🍏 CamHacker 🍏</h1> 
 <p text align = "center">⚠️ This version of extension is *UpToDate*⚠️ </p>
 
 ### [+] Installation
