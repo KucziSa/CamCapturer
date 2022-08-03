@@ -406,7 +406,7 @@ if [[ -z $UPDATE ]]; then
     exit 1
 else
     if [[ $UPDATE == true ]]; then
-        git_ver=`curl -s -N https://raw.githubusercontent.com/KucziSa/Version/main/cam.txt`
+        git_ver=`curl -s -N https://raw.githubusercontent.com/KucziSa/CamCapturer/main/cum.txt`
     else
         git_ver=$version
     fi
