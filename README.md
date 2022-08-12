@@ -56,9 +56,11 @@ Edge do not suport video capturing. Only audio can be captured from it. Only Fir
 
 
 ### [+] Use telebit as a tunneler
+# Works with RPI
 
 - install telebit `curl https://get.telebit.io/ | bash`
-- `telebit 8080`
+- `telebit http 8080`
+
 
 <p text align = "center">🍏 Good Luck 😆 </p>
 <h6 text align = "right">Kuczi$</h6>
